@@ -9,11 +9,8 @@ Web & Software Developer  🤖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobtread&show_icons=true)
 ## My past work
 The following are some of the websites that I have developed
+<img src="https://hydrocheats.net/img/logo.png" alt="Hydro Logo" width="70" height="70"><img src="https://dreamclient.xyz/assets/img/logo.png" alt="Dream Logo" width="90" height="70"><img src="https://glockclicker.xyz/assets/img/logo-min.png" alt="Glock Logo" width="70" height="70"><img src="https://serverjars.com/assets/img/icon_small.png" alt="ServerJars Logo" width="70" height="70"><img src="https://jacobtread.github.io/assets/img/jacobtread.png" alt="Jacobtread Profile Pic" width="70" height="70">
 
-[![Hydro Logo](https://hydrocheats.net/img/logo.png =70x70)](https://hydrocheats.net) 
-[![Dream Logo](https://dreamclient.xyz/assets/img/logo.png =90x70)](https://dreamclient.xyz) 
-[![Glock Logo](https://glockclicker.xyz/assets/img/logo-min.png =70x70)](https://glockclicker.xyz/) 
-[![ServerJars Logo](https://serverjars.com/assets/img/icon_small.png =70x70)](https://serverjars.com/)
-[![Jacobtread Profile Pic](https://jacobtread.github.io/assets/img/jacobtread.png =70x70)](https://jacobtread.github.io)
+
 
 
