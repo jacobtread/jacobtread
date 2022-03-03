@@ -16,8 +16,6 @@ The following are some of the websites that I have developed
 - https://dreamclient.xyz
 - https://glockclicker.xyz
 - https://serverjars.com
-- https://jacobtread.github.io
+- https://jacobtread.com
 - https://toi.qrl.nz
-
-
-
+- https://quizler.jacobtread.com
