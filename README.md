@@ -2,7 +2,7 @@
 # 🎓 Jacobtread
 Web & Software Developer  🤖
 
-😍 Kotlin 😍
+😍 Go 😍
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobtread&layout=compact)
 
