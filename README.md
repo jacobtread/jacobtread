@@ -2,6 +2,8 @@
 # 🎓 Jacobtread
 Full-Stack Developer  🤖
 
+[![committers.top badge](https://user-badge.committers.top/new_zealand/jacobtread.svg)](https://user-badge.committers.top/new_zealand/jacobtread)
+
 Checkout my website at [jacobtread.com](https://jacobtread.com)
 
 Discord: Jacobtread#3770
