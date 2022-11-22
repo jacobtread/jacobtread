@@ -3,7 +3,7 @@
 *Full-Stack Developer 🤖*
 
 ```rust
-info!("Another developer working on Open Source software.")
+info!("Another developer working on Open Source software.");
 ```
 
 # 🔗 Website
@@ -39,7 +39,7 @@ Below are some statistics about my Github profile
 
 
 ```rust
-info!("Rust is starting to top my most used langauges!")
+info!("Rust is starting to top my most used langauges!");
 ```
 
 
@@ -87,7 +87,7 @@ that all come together to make it work.
 
 
 ```rust 
-info!("0_0 I even had to write my own SSLv3 implementation to work with the game")
+info!("0_0 I even had to write my own SSLv3 implementation to work with the game");
 ```
 
 # 🔭 That's all 
@@ -97,5 +97,5 @@ to my Website or check out my repositories.
 
 
 ```rust
-debug!("You've reached the end of the stack.")
+debug!("You've reached the end of the stack.");
 ```
