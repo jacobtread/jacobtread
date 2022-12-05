@@ -11,7 +11,7 @@ info!("Another developer working on Open Source software.");
 I have a personal website which also acts as a portfolio for my past projects. You can 
 view it using the link below: 
 
-[jacobtread.com (https://jacobtread.com](https://jacobtread.com)
+[jacobtread.com (https://jacobtread.com)](https://jacobtread.com)
 
 My website contains a more indepth about section and information about my specialties and
 knowledge
