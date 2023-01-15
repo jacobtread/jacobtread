@@ -51,7 +51,7 @@ info!("Rust is starting to top my most used langauges!");
 Below is my current tech stack preferences that im using the most
 
 - **Frontend Framework**: [React (https://reactjs.org/)](https://reactjs.org/)
-- **Backend Framework**: [NextJS (https://nextjs.org/)](https://nextjs.org/), [Actix Web (https://actix.rs/)](https://actix.rs/)
+- **Backend Framework**: [NextJS (https://nextjs.org/)](https://nextjs.org/), [Actix Web (https://actix.rs/)](https://actix.rs/) [Axum (https://crates.io/crates/axum)](https://crates.io/crates/axum)
 - **Frontend Languages**: HTML, [SCSS (https://sass-lang.com/)](https://sass-lang.com/), [Typescript (https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 - **Backend Languages**: [Rust (https://www.rust-lang.org/)](https://www.rust-lang.org/), [Kotlin (https://kotlinlang.org/)](https://kotlinlang.org/)
 - **Git Client**: [GitKraken (https://www.gitkraken.com/)](https://www.gitkraken.com/)
@@ -87,7 +87,7 @@ that all come together to make it work.
 
 
 ```rust 
-info!("0_0 I even had to write my own SSLv3 implementation to work with the game");
+info!("0_0 I even wrote my own SSLv3 implementation to work with the game");
 ```
 
 # 🔭 That's all 
