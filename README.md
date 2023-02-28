@@ -6,6 +6,9 @@
 info!("Another developer working on Open Source software.");
 ```
 
+<a href="https://www.buymeacoffee.com/jacobtread" target="_blank"><img src="./bmc-button.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 # 🔗 Website
 
 I have a personal website which also acts as a portfolio for my past projects. You can 
