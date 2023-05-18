@@ -53,12 +53,12 @@ info!("Rust is starting to top my most used langauges!");
 
 Below is my current tech stack preferences that im using the most
 
-- **Frontend Framework**: [React (https://reactjs.org/)](https://reactjs.org/)
-- **Backend Framework**: [NextJS (https://nextjs.org/)](https://nextjs.org/), [Actix Web (https://actix.rs/)](https://actix.rs/), [Axum (https://crates.io/crates/axum)](https://crates.io/crates/axum)
-- **Frontend Languages**: HTML, [SCSS (https://sass-lang.com/)](https://sass-lang.com/), [Typescript (https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-- **Backend Languages**: [Rust (https://www.rust-lang.org/)](https://www.rust-lang.org/), [Kotlin (https://kotlinlang.org/)](https://kotlinlang.org/)
-- **Git Client**: [GitKraken (https://www.gitkraken.com/)](https://www.gitkraken.com/)
-- **Editor**: [Visual Studio Code (https://code.visualstudio.com/)](https://code.visualstudio.com/)
+- **Frontend Framework**: [React (reactjs.org)](https://reactjs.org/), [Svelte (svelte.dev)](https://svelte.dev/)
+- **Backend Framework**: [NextJS (nextjs.org)](https://nextjs.org/), [Actix Web (https://actix.rs/)](https://actix.rs/), [Axum (https://crates.io/crates/axum)](https://crates.io/crates/axum)
+- **Frontend Languages**: HTML, [SCSS (sass-lang.com)](https://sass-lang.com/), [Typescript (https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+- **Backend Languages**: [Rust (www.rust-lang.org)](https://www.rust-lang.org/), [Kotlin (https://kotlinlang.org/)](https://kotlinlang.org/)
+- **Git Client**: [GitKraken (www.gitkraken.com)](https://www.gitkraken.com/)
+- **Editor**: [Visual Studio Code (code.visualstudio.com)](https://code.visualstudio.com/)
 
 ```rust
 use tokio::time::sleep;
@@ -79,9 +79,14 @@ async fn main() {
 
 # ⚗️ Current Projects
 
-**Pocket Relay**: I am currently devoting most of my time to my Mass Effect 3 server emulator named
-"Pocket Relay" this is a game server for the Mass Effect 3 game which allows the 
-game to be played over LAN and without connecting to the official servers. 
+**Quizler V2**: Recently, I've been remaking my old [Quizler](https://github.com/jacobtread/Quizler) real-time quiz app. I 
+have been remaking this project using Rust for the backend and Svelte for the frontend. This remake has greatly improved 
+performance and functionality of the server with much more customization and things like filtering names for profanity 
+
+[https://github.com/jacobtread/Quizler-v2](https://github.com/jacobtread/Quizler-v2)
+
+**Pocket Relay**: My Mass Effect 3 server emulator named "Pocket Relay" this is a game server for the
+Mass Effect 3 game which allows the game to be played over LAN and without connecting to the official servers. 
 
 [https://github.com/PocketRelay/](https://github.com/PocketRelay/)
 
