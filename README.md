@@ -35,8 +35,7 @@ Email   : jacobtread@gmail.com
 
 Below are some statistics about my Github profile 
 
-[![committers.top badge](https://user-badge.committers.top/new_zealand/jacobtread.svg)](https://user-badge.committers.top/new_zealand/jacobtread)
-
+[![NZ Top Committers badge](https://committers.pages.dev/badges/jacobtread.svg)](https://committers.pages.dev/#jacobtread)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobtread&layout=compact&theme=transparent)
 
