@@ -26,8 +26,9 @@ knowledge
 If you would like to get in touch with me you can do so at one of the following contact 
 methods. 
 ```
-Discord : Jacobtread#3770
+Discord : jacobtread
 Email   : jacobtread@gmail.com
+LinkedIn: https://www.linkedin.com/in/jacobtread/
 ```
 
 
