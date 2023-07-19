@@ -97,6 +97,11 @@ that all come together to make it work.
 info!("0_0 I even wrote my own SSLv3 implementation to work with the game");
 ```
 
+**Pocket Ark**: My private server emulator for Mass Effect Andromeda, its in very early stages but is already showing promise
+with much of the functionality of the official server being implemented.
+
+[https://github.com/PocketRelay/PocketArk](https://github.com/PocketRelay/PocketArk)
+
 # 🔭 That's all 
 
 Thats all the information available in this README file. From here you can procceed over
