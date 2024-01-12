@@ -85,8 +85,8 @@ performance and functionality of the server with much more customization and thi
 
 [https://github.com/jacobtread/Quizler](https://github.com/jacobtread/Quizler)
 
-**Pocket Relay**: My Mass Effect 3 server emulator named "Pocket Relay" this is a game server for the
-Mass Effect 3 game which allows the game to be played over LAN and without connecting to the official servers. 
+**Pocket Relay**: My Mass Effect 3 private server emulator named "Pocket Relay" this is a game server for the
+Mass Effect 3 game which lets you host your own servers thus allowing the game to be played over LAN and fixes issues that players have run into on the normal servers. 
 
 [https://github.com/PocketRelay/](https://github.com/PocketRelay/)
 
