@@ -54,10 +54,9 @@ info!("Rust is starting to top my most used langauges!");
 Below is my current tech stack preferences that im using the most
 
 - **Frontend Framework**: [React (reactjs.org)](https://reactjs.org/), [Svelte (svelte.dev)](https://svelte.dev/)
-- **Backend Framework**: [NextJS (nextjs.org)](https://nextjs.org/), [Actix Web (https://actix.rs/)](https://actix.rs/), [Axum (https://crates.io/crates/axum)](https://crates.io/crates/axum)
+- **Backend Framework**: [Actix Web (https://actix.rs/)](https://actix.rs/), [Axum (https://crates.io/crates/axum)](https://crates.io/crates/axum)
 - **Frontend Languages**: HTML, [SCSS (sass-lang.com)](https://sass-lang.com/), [Typescript (https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-- **Backend Languages**: [Rust (www.rust-lang.org)](https://www.rust-lang.org/), [Kotlin (https://kotlinlang.org/)](https://kotlinlang.org/)
-- **Git Client**: [GitKraken (www.gitkraken.com)](https://www.gitkraken.com/)
+- **Backend Languages**: [Rust (www.rust-lang.org)](https://www.rust-lang.org/)
 - **Editor**: [Visual Studio Code (code.visualstudio.com)](https://code.visualstudio.com/)
 
 ```rust
@@ -84,6 +83,11 @@ have been remaking this project using Rust for the backend and Svelte for the fr
 performance and functionality of the server with much more customization and things like filtering names for profanity 
 
 [https://github.com/jacobtread/Quizler](https://github.com/jacobtread/Quizler)
+
+**Obsidian Timekeep**: I've been actively working on this Obsidian plugin while dogfooding it to myself. I use this plugin
+to track my working hours as well as exporting them as PDFs to easily share.
+
+[https://github.com/jacobtread/obsidian-timekeep](https://github.com/jacobtread/obsidian-timekeep)
 
 **Pocket Relay**: My Mass Effect 3 private server emulator named "Pocket Relay" this is a game server for the
 Mass Effect 3 game which lets you host your own servers thus allowing the game to be played over LAN and fixes issues that players have run into on the normal servers. 
