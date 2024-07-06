@@ -78,16 +78,15 @@ async fn main() {
 
 # ⚗️ Current Projects
 
-**Quizler**: Recently, I've been remaking my old [Quizler](https://github.com/jacobtread/Quizler-v1) real-time quiz app. I 
-have been remaking this project using Rust for the backend and Svelte for the frontend. This remake has greatly improved 
-performance and functionality of the server with much more customization and things like filtering names for profanity 
-
-[https://github.com/jacobtread/Quizler](https://github.com/jacobtread/Quizler)
-
 **Obsidian Timekeep**: I've been actively working on this Obsidian plugin while dogfooding it to myself. I use this plugin
 to track my working hours as well as exporting them as PDFs to easily share.
 
 [https://github.com/jacobtread/obsidian-timekeep](https://github.com/jacobtread/obsidian-timekeep)
+
+**OGuard**: I recently purchased a UPS for my computer, the software it came with was quite outdated, clunky, and wasteful with resource usage. With this project
+I am creating my own custom monitoring and control software for the UPS.
+
+[https://github.com/jacobtread/oguard](https://github.com/jacobtread/oguard)
 
 **Pocket Relay**: My Mass Effect 3 private server emulator named "Pocket Relay" this is a game server for the
 Mass Effect 3 game which lets you host your own servers thus allowing the game to be played over LAN and fixes issues that players have run into on the normal servers. 
@@ -101,8 +100,14 @@ that all come together to make it work.
 info!("0_0 I even wrote my own SSLv3 implementation to work with the game");
 ```
 
+**Quizler**: I have remade my old [Quizler](https://github.com/jacobtread/Quizler-v1) real-time quiz app. I 
+have been remaking this project using Rust for the backend and Svelte for the frontend. This remake has greatly improved 
+performance and functionality of the server with much more customization and things like filtering names for profanity 
+
+[https://github.com/jacobtread/Quizler](https://github.com/jacobtread/Quizler)
+
 **Pocket Ark**: My private server emulator for Mass Effect Andromeda, its in very early stages but is already showing promise
-with much of the functionality of the official server being implemented.
+with much of the functionality of the official server being implemented. This project has been put on hol
 
 [https://github.com/PocketRelay/PocketArk](https://github.com/PocketRelay/PocketArk)
 
