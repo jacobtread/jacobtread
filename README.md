@@ -38,7 +38,7 @@ Below are some statistics about my Github profile
 
 [![NZ Top Committers badge](https://committers.pages.dev/badges/jacobtread.svg)](https://committers.pages.dev/#jacobtread)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobtread&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jacobtread&layout=compact&theme=transparent)
 
 
 ```rust
@@ -46,7 +46,7 @@ info!("Rust is starting to top my most used langauges!");
 ```
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobtread&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jacobtread&show_icons=true&theme=transparent)
 
 
 # 🧰 Current Stack
