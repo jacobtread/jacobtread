@@ -53,9 +53,9 @@ Below is my current tech stack preferences that im using the most
 
 - **Frontend Framework**: [React (reactjs.org)](https://reactjs.org/), [Svelte (svelte.dev)](https://svelte.dev/)
 - **Backend Framework**: [Axum (https://crates.io/crates/axum)](https://crates.io/crates/axum)
-- **Frontend Languages**: HTML, [SCSS (sass-lang.com)](https://sass-lang.com/), [Typescript (https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+- **Frontend Languages**: HTML, CSS, [Typescript (https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 - **Backend Languages**: [Rust (www.rust-lang.org)](https://www.rust-lang.org/)
-- **Editor**: [Zed (zed.dev)](https://zed.dev/), [Visual Studio Code (code.visualstudio.com)](https://code.visualstudio.com/)
+- **Editor**: [Zed (zed.dev)](https://zed.dev/)
 
 ```rust
 use tokio::time::sleep;
